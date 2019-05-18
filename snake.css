@@ -1,0 +1,14 @@
+body {
+    background-image: url("http://clipart-library.com/images/8czrbd8ji.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-size: 3em;
+}
